@@ -1,7 +1,9 @@
-### Hi there 👋
-* I am a MS student at Computer Science and Economics Departments, Duke University. I will Graduate in May 2024.
-* I have experience in building web applications in TypeScript (JavaScript), and Python.
-* I have experience in building machine learning (sklearn), deep learning (pytorch) and reinforcement learning(stable_baseline) models
+### Hi there, This is Congcong 👋
+* 🔭I am a MS student at Computer Science and Economics Departments, Duke University. I will Graduate in May 2024.
+* 👯I have experience in building web applications in TypeScript (JavaScript), and Python.
+* 👯I have experience in building machine learning (sklearn), deep learning (pytorch) and reinforcement learning(stable_baseline) models
+* 😄 Pronouns: He/His/Him
+* 📫 How to reach me: cm645@duke.edu 
 
 <!--
 **Donis666/Donis666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
